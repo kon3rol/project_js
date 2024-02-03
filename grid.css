@@ -134,6 +134,7 @@ p {
 }
 
 .info {
+  margin-bottom: 20px;
   /* display: flex;
   align-items: center;
   justify-content: center;
@@ -331,8 +332,8 @@ footer {
   }
 
   .container {
-    /* max-width: 1%; */
-    margin: auto;
+    /* max-width: 40; */
+    margin: auto 25%;
     padding: 20px 20px;
     display: block;
     /* position: relative; */
