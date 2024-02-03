@@ -264,10 +264,9 @@ footer {
   text-decoration: none;
 }
 
-.footer-name{
+.footer-name {
   margin: auto 180px;
   gap: 50px;
-  
 }
 
 .end {
@@ -329,7 +328,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
-  
   }
 
   .toogle1 {
@@ -371,7 +369,10 @@ footer {
     font-weight: 300;
     color: #ffffff;
   }
-
+  .footer-name {
+    margin: 0;
+    text-align: center;
+  }
   /* .footer-name{
     margin:
   }
