@@ -263,7 +263,7 @@ footer {
   }
 
   .container {
-    margin: auto 20%;
+    margin: auto 20px;
     padding: 20px 20px;
     display: block;
   }
